@@ -1,4 +1,4 @@
-# HTML Emmet Snippets with Visual Studio Code
+# Emmet HTML Snippets Cheatsheet
 
 Snippet then tab or enter
 
